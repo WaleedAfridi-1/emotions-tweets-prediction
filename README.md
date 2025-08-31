@@ -7,7 +7,7 @@ Emotion Tweets Prediction is an NLP and Machine Learning project that analyzes t
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-NLP-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/WaleedAfridi-1/emotion-tweets-prediction?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/WaleedAfridi-1/emotions-tweets-prediction?style=for-the-badge">
 </p>
 
 ---
