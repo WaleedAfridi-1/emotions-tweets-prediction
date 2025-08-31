@@ -98,7 +98,8 @@ python train_model.py
 Example:  
 
 <p align="center">
-  <img src="https://[https://github.com/WaleedAfridi-1/emotions-tweets-prediction/blob/main/Confusion%20Matrix.png]" alt="Confusion Matrix" width="500">
+  <img src="https://[https://github.com/WaleedAfridi-1/emotions-tweets-prediction
+/Confusion Matrix.png]" alt="Confusion Matrix" width="500">
 </p>
 
 ---
