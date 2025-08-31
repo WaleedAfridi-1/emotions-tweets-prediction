@@ -136,5 +136,5 @@ This project is licensed under the **MIT License**.
 If you like this project, give it a ⭐ on [GitHub](https://github.com/WaleedAfridi-1/emotion-tweets-prediction)!
 
 <p align="center">
-  Made with ❤️ by <b>WaleedAfirdi</b>
+  Made with ❤️ by <b>Waleed Afirdi</b>
 </p>
